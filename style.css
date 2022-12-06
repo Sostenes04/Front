@@ -15,13 +15,13 @@ body{
 
 a{
     text-decoration: none;
-    color: #7fffd4;
+    color: #;
 }
 
 header{
     display: flex;
     align-items: center;
-    background-color: #A7E0D8;
+    background-color: #0096c7;
 }
 
 header .logo {
@@ -56,7 +56,7 @@ main{
 .card{
     margin: 20px;
     padding: 20px;
-    background: linear-gradient(60deg, #181f27,#697785);
+    background: linear-gradient(to right, #caf0f8,#e3f2fd);
     width: 300px;
     height: 160px;
     overflow: hidden;
@@ -66,3 +66,10 @@ main{
     border-radius: 20px;
 }
 
+
+footer{
+    display: flex;
+    align-items: center;
+    background-color: #0096c7;
+}
+    
